@@ -1,0 +1,7 @@
+F:\C#\Crud Operations in Desktop Application C#\Crud Operations in Desktop Application C#\obj\Debug\net8.0-windows\Crud Operations in Desktop Application C#.csproj.AssemblyReference.cache
+F:\C#\Crud Operations in Desktop Application C#\Crud Operations in Desktop Application C#\obj\Debug\net8.0-windows\Crud_Operations_in_Desktop_Application_C_.Form1.resources
+F:\C#\Crud Operations in Desktop Application C#\Crud Operations in Desktop Application C#\obj\Debug\net8.0-windows\Crud Operations in Desktop Application C#.csproj.GenerateResource.cache
+F:\C#\Crud Operations in Desktop Application C#\Crud Operations in Desktop Application C#\obj\Debug\net8.0-windows\Crud Operations in Desktop Application C#.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Crud Operations in Desktop Application C#\Crud Operations in Desktop Application C#\obj\Debug\net8.0-windows\Crud Operations in Desktop Application C#.AssemblyInfoInputs.cache
+F:\C#\Crud Operations in Desktop Application C#\Crud Operations in Desktop Application C#\obj\Debug\net8.0-windows\Crud Operations in Desktop Application C#.AssemblyInfo.cs
+F:\C#\Crud Operations in Desktop Application C#\Crud Operations in Desktop Application C#\obj\Debug\net8.0-windows\Crud Operations in Desktop Application C#.csproj.CoreCompileInputs.cache
